@@ -1,28 +1,53 @@
-.App {
-  text-align: center;
+.wrapper-block {
+  display: flex;
+  flex-wrap: wrap;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+.card-block {
+  display: block;
+  width: 260px;
+  padding: 10px;
+  border: 1px solid rgba(0,0,0,0.2);
+  border-radius: 5px;
+  margin: 10px;
+}
+.avatar {
+  width: 160px;
+  height: 160px;
+  background: #ccc;
+  border-radius: 3px;
+}
+.name {
+  margin: 10px 0;
 }
 
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
+.company,.city {
+  margin-left: 5px;
 }
 
-.App-title {
-  font-size: 1.5em;
+.age {
+  display: inline-block;
+  margin-bottom: 10px;
 }
 
-.App-intro {
-  font-size: large;
+.phone {
+  margin-bottom: 10px;
 }
 
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+.nameStyle {
+  font-size: 24px;
+  color: #333;
+  text-decoration: none;
+}
+
+.about {
+  font-size: 14px;
+}
+
+.userContainer {
+  display: inline-block;
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
 }
