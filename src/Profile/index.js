@@ -8,18 +8,19 @@ class Profile extends Component {
       localStorage,
     };
     this.infoUser = JSON.parse(localStorage.getItem("User")),
-    this.test = this.test.bind(this);
+    this.findUser = this.findUser.bind(this);
   }
 
-  test() {
+  findUser(info) {
+    console.log(info);
   }
+
 
   render() {
     return(
       <div>
         {
           this.infoUser.map(item => {
-            console.log(item.frineds);
            return(
              <div className="userContainer" key={item["_id"]}>
                <img src={item.picture} alt=""/>
@@ -27,7 +28,7 @@ class Profile extends Component {
                <div className="company">Компания:{item.company}</div>
                <div className="city">Город: {item.city}</div>
                <div>Все друзья:<br/>
-                 <div>{item.friends}</div>
+                 <div>{this.findUser(item.friends)}</div>
                </div>
              </div>
            )
