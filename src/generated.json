@@ -1,0 +1,70 @@
+[
+  {
+    "_id": "5b9927771449fd5d1c3110e0",
+    "index": 0,
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "price": 33,
+    "name": "Ebony",
+    "about": "Ea culpa Lorem commodo non aliquip sit Lorem in deserunt aute ad qui. Excepteur esse eu aliquip adipisicing qui eiusmod laborum labore elit eu. Pariatur sunt nulla reprehenderit magna cillum esse amet ut velit adipisicing duis duis pariatur proident. Dolor qui anim ut ea esse adipisicing reprehenderit. Ullamco qui laboris deserunt mollit in laborum officia enim sunt.",
+    "company": "Insuron",
+    "city": "Woodruff",
+    "friends": ["5b992777ca43acac6cd62e18","5b9927772c6159dad8c0f1cc"]
+  },
+  {
+    "_id": "5b992777ca43acac6cd62e18",
+    "index": 1,
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "price": 22,
+    "name": "Little",
+    "about": "Occaecat veniam veniam minim esse cillum quis sit elit Lorem. Duis veniam nisi ut veniam non est ea et do duis et cillum. Ipsum in nisi proident magna ea consequat duis excepteur. Ad et irure elit consequat ex irure cupidatat. Ea sunt sit sit elit qui nulla officia fugiat duis.",
+    "company": "Furnitech",
+    "city": "Sultana"
+  },
+  {
+    "_id": "5b9927772c6159dad8c0f1cc",
+    "index": 2,
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "price": 21,
+    "name": "Daisy",
+    "about": "Reprehenderit velit enim voluptate minim consequat anim sint aliquip. Culpa reprehenderit ullamco nostrud magna consequat do mollit eiusmod proident tempor Lorem. Et in sint ea cupidatat velit exercitation labore veniam sit cupidatat. Do voluptate aliqua sunt eiusmod elit consectetur laborum ex deserunt tempor duis. Lorem proident ex magna incididunt nulla nisi ad incididunt in pariatur elit consequat aliquip.",
+    "company": "Rooforia",
+    "city": "Eagleville",
+    "friends": ["5b992777ca43acac6cd62e18","5b9927772c6159dad8c0f1cc","5b992777dfb0b49e7d788b75"]
+  },
+  {
+    "_id": "5b992777dfb0b49e7d788b75",
+    "index": 3,
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "price": 27,
+    "name": "Hester",
+    "about": "Labore non labore esse id exercitation nulla Lorem fugiat ex reprehenderit et ullamco laboris nostrud. Fugiat ut eiusmod consequat magna ipsum ea deserunt minim. Veniam sit velit dolor ipsum ullamco est proident incididunt laboris Lorem irure id nostrud. Elit fugiat amet consectetur elit fugiat magna occaecat excepteur officia ut. Ipsum ut minim occaecat adipisicing consectetur.",
+    "company": "Exoblue",
+    "city": "Thatcher"
+  },
+  {
+    "_id": "5b9927776336952544c88950",
+    "index": 4,
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "price": 37,
+    "name": "Tyler",
+    "about": "Nostrud aliqua commodo sunt voluptate sit. Eu do qui pariatur ea sint. Mollit deserunt enim culpa elit id ea aliqua est ad. Amet laborum irure irure sit cillum mollit Lorem velit. Laborum tempor fugiat cupidatat ex eu voluptate sint.",
+    "company": "Ramjob",
+    "city": "Summerset"
+  },
+  {
+    "_id": "5b992777bb5f1bb2b1ad34e0",
+    "index": 5,
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "price": 39,
+    "name": "Paulette",
+    "about": "Labore dolore incididunt enim adipisicing quis excepteur esse est consectetur nulla in magna dolor. Labore quis sint reprehenderit mollit minim. Sit nisi dolor ad sint irure consequat ut duis adipisicing duis. Anim sit voluptate quis enim est quis. Proident incididunt aliqua quis commodo pariatur fugiat cupidatat exercitation tempor reprehenderit fugiat in eu incididunt.",
+    "company": "Typhonica",
+    "city": "Roy"
+  }
+]
